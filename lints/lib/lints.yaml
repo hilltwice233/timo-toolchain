@@ -87,7 +87,7 @@ linter:
     prefer_asserts_in_initializer_lists: true
     prefer_constructors_over_static_methods: true
     # prefer_double_quotes: true # conflict with prefer_single_quotes.
-    prefer_expression_function_bodies: true
+    # prefer_expression_function_bodies: true # might make flutter code ugly.
     prefer_final_in_for_each: true
     prefer_final_locals: true
     # prefer_final_parameters: true # conflict with avoid_final_parameters.
