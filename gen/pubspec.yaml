@@ -1,0 +1,8 @@
+name: timo_gen
+description: Dart code generator that helps Flutter app development.
+version: 0.0.0
+environment: {sdk: ">=3.1.5 <4.0.0"}
+publish_to: "none"
+
+dev_dependencies:
+  timo_lints: {path: ../lints}
