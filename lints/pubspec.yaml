@@ -1,5 +1,5 @@
 name: timo_lints
-description: Shared linter options for the timo project.
+description: Shared linter options for the Timo Project.
 version: 1.0.0
 publish_to: "none"
 environment: {sdk: ">=3.1.5 <4.0.0"}

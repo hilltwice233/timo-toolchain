@@ -1,3 +1,3 @@
 # Timo Lints
 
-Shared linter options for the timo project.
+Shared linter options for the Timo Project.
