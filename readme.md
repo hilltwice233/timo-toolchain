@@ -2,6 +2,9 @@
 
 The shared toolchain for development of the Timo Project.
 
+1. [Annotations](./anno): Annotations for Dart code generating.
+2. [Lints](./lints): shared Dart/Flutter linter options.
+
 ## How to use?
 
 Please import the packages via GitHub
