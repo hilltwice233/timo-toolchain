@@ -3,6 +3,7 @@
     "esbenp.prettier-vscode",
     "dart-code.dart-code",
     "mads-hartmann.bash-ide-vscode",
-    "foxundermoon.shell-format"
+    "foxundermoon.shell-format",
+    "streetsidesoftware.code-spell-checker"
   ]
 }
