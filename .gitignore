@@ -1,0 +1,6 @@
+# Operation system specified files.
+.DS_Store
+
+# Dart dependencies and lockfile.
+.dart_tool/
+pubspec.lock
