@@ -1,6 +1,6 @@
 name: timo_widgets
 description: Shared flutter widgets for the Timo Project.
-version: 0.0.0
+version: 0.1.0
 environment: {sdk: ">=3.1.5 <4.0.0"}
 publish_to: "none"
 
