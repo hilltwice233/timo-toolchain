@@ -3,5 +3,10 @@ description: Shared linter options for the timo project.
 version: 0.0.0
 environment: {sdk: ">=3.1.5 <4.0.0"}
 
+# Please import this package via github
+# because this package had not been published to pub.dev yet.
+# This option will also enable local imports.
+publish_to: "none"
+
 dependencies:
   flutter_lints: ^3.0.0
