@@ -35,8 +35,8 @@ linter:
     always_declare_return_types: true
     # always_put_control_body_on_new_line: true # might make code ugly.
     always_put_required_named_parameters_first: true
-    always_specify_types: true
-    annotate_redeclares: true
+    # always_specify_types: true # conflict with avoid_types_on_closure...
+    # annotate_redeclares: true # still experimental.
     avoid_annotating_with_dynamic: true
     avoid_bool_literals_in_conditional_expressions: true
     avoid_catches_without_on_clauses: true
@@ -90,7 +90,7 @@ linter:
     prefer_expression_function_bodies: true
     prefer_final_in_for_each: true
     prefer_final_locals: true
-    prefer_final_parameters: true
+    # prefer_final_parameters: true # conflict with avoid_final_parameters.
     # prefer_foreach: true
     prefer_if_elements_to_conditional_expressions: true
     prefer_int_literals: true
