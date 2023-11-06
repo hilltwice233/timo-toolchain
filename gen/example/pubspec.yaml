@@ -10,3 +10,4 @@ dependencies:
 dev_dependencies:
   timo_lints: {path: ../../lints}
   timo_gen: {path: ../}
+  build_runner: ^2.4.6
