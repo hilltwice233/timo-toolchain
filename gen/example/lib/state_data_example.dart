@@ -1,0 +1,3 @@
+class ExampleThemeData {
+  const ExampleThemeData();
+}
