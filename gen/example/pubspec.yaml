@@ -5,6 +5,7 @@ environment: {sdk: ">=3.1.5 <4.0.0"}
 publish_to: "none"
 
 dependencies:
+  flutter: {sdk: flutter}
   timo_anno: {path: ../../anno}
 
 dev_dependencies:
